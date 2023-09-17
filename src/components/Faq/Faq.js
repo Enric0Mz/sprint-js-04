@@ -1,13 +1,13 @@
 // FAQ.js
 import React from 'react';
 import Card from '../Cards/CardsContainer';
-import FAQContainer from '../FaqContainer';
-import Questions from '../Questions';
+import FaqContainer from './FaqContainer';
+import Questions from './Questions';
 
 
 function Faq() {
     return (
-        <FAQContainer>
+        <FaqContainer>
             <div className="row">
                 <div className="col-md-12">
                     <div className="perguntas">
@@ -32,7 +32,7 @@ function Faq() {
                     </div>
                 </div>
             </div>
-        </FAQContainer>
+        </FaqContainer>
     );
 }
 
