@@ -33,4 +33,4 @@ Siga os seguintes passos para executar o projeto:
    npm start
 
 ## Link do repositório
-https://github.com/Enric0Mz/sprint-js-03
+https://github.com/Enric0Mz/sprint-js-04
