@@ -7,6 +7,7 @@ import Main from './components/Main/Main';
 import Problems from './components/Problems/Problems'
 import AboutUs from './components/AboutUs/AboutUs';
 import Faq from './components/Faq/Faq';
+import Home from './components/Home/Home';
 
 function App() {
   return (
@@ -25,8 +26,5 @@ function App() {
   );
 }
 
-const Home = () => {
-  return <h2>Welcome to the Home Page!</h2>;
-};
 
 export default App;
