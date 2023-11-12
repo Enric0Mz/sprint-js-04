@@ -14,7 +14,6 @@ function Faq() {
                         <Questions className="text-center">
                             <h3>FAQ</h3>
                         </Questions>
-
                         <div className="respostas">
                             <Card
                                 titulo="Como ajudará a empresa contratante?"
