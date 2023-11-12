@@ -20,7 +20,6 @@ const ItemList = () => {
 
     return (
         <div>
-            {/* Render your items here */}
             {items.map(item => (
                 <div key={item.id}>{item.name}</div>
             ))}
